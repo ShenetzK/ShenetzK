@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - А это изменения из ветки New branch 1
+- Это изменение в файле с приложения desktop
 
 <!---
 ShenetzK/ShenetzK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
